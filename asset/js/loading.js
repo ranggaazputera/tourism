@@ -1,3 +1,3 @@
-$(document).ready(function(){
+$(windows).load(function(){
 	$("#loading").fadeOut();
 })
